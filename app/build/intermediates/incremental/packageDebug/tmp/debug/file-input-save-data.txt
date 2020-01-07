@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Nov 20 22:09:45 EST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\aloma\\Desktop\\My Folder\\Fall 2019\\Mobile Apps\\WBuildingApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

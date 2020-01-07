@@ -1,0 +1,4 @@
+#Wed Nov 20 22:09:44 EST 2019
+base.0=C\:\\Users\\aloma\\Desktop\\My Folder\\Fall 2019\\Mobile Apps\\WBuildingApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
