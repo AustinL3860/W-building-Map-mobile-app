@@ -1,4 +1,4 @@
-package edu.ggc.espinosa.wbuildingapp;
+package edu.ggc.lomax.wbuildingapp;
 
 import org.junit.Test;
 
